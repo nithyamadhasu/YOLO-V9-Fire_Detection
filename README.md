@@ -1,4 +1,3 @@
-# YOLO-V9-Fire_Detection
 # YOLO-V9 for Forest Fire and Smoke Detection
 
 ## Overview
